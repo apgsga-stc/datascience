@@ -21,3 +21,5 @@ pybaobabdt
 pygraphviz
 
 easygui
+
+networkx
